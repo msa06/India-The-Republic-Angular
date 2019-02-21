@@ -1,0 +1,4 @@
+
+.navbar .nav > li > .dropdown-menu:before, .navbar .nav > li > .dropdown-menu:after{
+  border-bottom: none;
+}
